@@ -1,3 +1,3 @@
 # event-bus
 
-event-bus is a simple publish/subscribe event bus java library.
+A simple publish/subscribe event bus java library.
